@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcli"]=self["webpackChunkcli"]||[]).push([[184],{5184:function(n,u,e){e.r(u),e.d(u,{default:function(){return o}});var r=e(3396),t=function(n){return(0,r.dD)("data-v-2dea5a78"),n=n(),(0,r.Cn)(),n},a=t((function(){return(0,r._)("h1",null," Ошибка 404 Страница не найдена! ",-1)})),c=[a];function d(n,u,e,t,a,d){return(0,r.wg)(),(0,r.iD)("div",null,c)}var i={},l=e(89);const f=(0,l.Z)(i,[["render",d],["__scopeId","data-v-2dea5a78"]]);var o=f}}]);
+//# sourceMappingURL=184-legacy.210b8df8.js.map
